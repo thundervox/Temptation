@@ -6,7 +6,7 @@
 * [evanman83/OURS-project: Step-by-step instructions to build a smartphone that is open-source, upgradeable, repairable, and Big Tech free.](https://github.com/evanman83/OURS-project)
 * [mudita/MuditaOS: Mobile operating system based on FreeRTOS™ optimized for E Ink displays - developed for Mudita Pure minimalist phone](https://github.com/mudita/MuditaOS)
 * [mikroPhone](https://mikrophone.net/)
-* [Sky's Edge: Open Source Robotics and More](https://skysedge.com/)
+* [Rotary Un-Smartphone](https://skysedge.com/telecom/RUSP/index.html)
 * [Librem5](https://puri.sm/products/librem-5/)
 * [Precursor](https://www.crowdsupply.com/sutajio-kosagi/precursor)
 * [PinePhone](https://pine64.org/devices/pinephone/)
