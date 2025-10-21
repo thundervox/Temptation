@@ -8,3 +8,4 @@
 * [Telephone Tribute Home Page](https://www.telephonetribute.com/)
   固定電話機に関する膨大な資料があります。
 
+* [rchatham/pay-phone: This repository has code and circuit plans to hack a 1995 Pay Phone. (WIP)](https://github.com/rchatham/pay-phone/) 公衆電話を固定電話機として使えるように改造するためのプロジェクトのようです。
