@@ -12,6 +12,6 @@
 * [PinePhone](https://pine64.org/devices/pinephone/)
 * [Openmoko](https://www.openmoko.org/wiki/Main_Page)
 * [WiPhone](https://www.wiphone.io/)
-* []()
+* [SIP Phone based on Olimex ESP32-ADF, MOD-LCD2.8RTP boards.](https://github.com/OLIMEX/sip_phone_example)
 * []()
 * []()
