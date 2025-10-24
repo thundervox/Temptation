@@ -30,3 +30,14 @@
 ## 分解・修理
 * [Pure disassembly pictures - Other - Mudita Forum](https://forum.mudita.com/t/pure-disassembly-pictures/4814)
 * [Punkt MP02 Teardown - iFixit](https://www.ifixit.com/Teardown/Punkt+MP02+Teardown/164257)
+
+
+## 周辺機器
+### 固定電話風ヘッドセット
+
+* [タカラ、携帯電話用の黒電話型パロディ受話器](https://k-tai.watch.impress.co.jp/cda/article/news_toppage/193.html)
+* [なじむ、受話器が手になじむぞ――「アルミ製スタンド付き受話器型ヘッドセット」：“固定電話”感覚で通話できる - ITmedia PC USER](https://www.google.com/amp/s/www.itmedia.co.jp/pcuser/amp/1304/25/news155.html)
+* [スマートフォン用受話器スタンド - MPA-PS001BK](https://www.itmedia.co.jp/mobile/articles/1107/26/news101.html)
+
+一部を除き、あまり需要はないようですが、受話器型ハンドセットは受話器部分のものは手に入りますが、受話器台付きのものは中古でも入手困難です。もっとも、古すぎて今のスマートフォンでは動かすのは変換アダプタなどを介するので少し手間ですが。
+
