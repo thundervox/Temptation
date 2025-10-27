@@ -1,23 +1,25 @@
+## ∀wesome DIY Cellar Phone
 
 仕様や比較表、諸元表など用意するのが手間なので解説は後回しです。それと制作しても日本国内では電波法の兼ね合いから使用できませんので参考資料です。今の段階でできることは、できるだけ多くのプロジェクトを発掘してソフトウェアや回路図などを参考にする程度です。あしからず。
 
 ## 携帯電話・スマートフォン(オープンソース製品)
-* [evanman83/OURS-project: Step-by-step instructions to build a smartphone that is open-source, upgradeable, repairable, and Big Tech free.](https://github.com/evanman83/OURS-project)
-* [libresmartphone/libresmartphone: This page contains the software used in the open hardware smartphone (libresmartphone)](https://github.com/libresmartphone/libresmartphone)
-* [Raspberry Piで自作の携帯電話を作る - element14 presents](https://youtu.be/jjX7nS3kIao?si=ZytBZaNiKcO9VbMd)
-* [mudita/MuditaOS: Mobile operating system based on FreeRTOS™ optimized for E Ink displays - developed for Mudita Pure minimalist phone](https://github.com/mudita/MuditaOS)
-* [Volla](https://github.com/hellovolla)
-* [mikroPhone](https://mikrophone.net/)
-* [Rotary Un-Smartphone](https://skysedge.com/telecom/RUSP/index.html)
-* [Librem5](https://puri.sm/products/librem-5/)
-* [Rephone](https://wiki.seeedstudio.com/ja/RePhone/)
-* [Precursor](https://www.crowdsupply.com/sutajio-kosagi/precursor)
-* [PinePhone](https://pine64.org/devices/pinephone/)
-* [Openmoko](https://www.openmoko.org/wiki/Main_Page)
-* [WiPhone](https://www.wiphone.io/)
-* [SIP Phone based on Olimex ESP32-ADF, MOD-LCD2.8RTP boards.](https://github.com/OLIMEX/sip_phone_example)
-* [OSM‑Phone](https://github.com/DansDesigns/OSM-Phone)
-* [Spirit - Smartphone based on the Raspberry Pi CM 5.](https://github.com/V3lectronics/SPIRIT)
+1. [evanman83/OURS-project: Step-by-step instructions to build a smartphone that is open-source, upgradeable, repairable, and Big Tech free.](https://github.com/evanman83/OURS-project)
+2.  [CircuitMess Ringo - an educational DIY mobile phone](https://github.com/CircuitMess/CircuitMess-Ringo)
+3.   [libresmartphone/libresmartphone: This page contains the software used in the open hardware smartphone (libresmartphone)](https://github.com/libresmartphone/libresmartphone)
+4.    [Raspberry Piで自作の携帯電話を作る - element14 presents](https://youtu.be/jjX7nS3kIao?si=ZytBZaNiKcO9VbMd)
+5. [mudita/MuditaOS: Mobile operating system based on FreeRTOS™ optimized for E Ink displays - developed for Mudita Pure minimalist phone](https://github.com/mudita/MuditaOS)
+6.  [Volla](https://github.com/hellovolla)
+7.   [mikroPhone](https://mikrophone.net/)
+8.    [Rotary Un-Smartphone](https://skysedge.com/telecom/RUSP/index.html)
+9. [Librem5](https://puri.sm/products/librem-5/)
+10.   [Rephone](https://wiki.seeedstudio.com/ja/RePhone/)
+11.    [Precursor](https://www.crowdsupply.com/sutajio-kosagi/precursor)
+12. [PinePhone](https://pine64.org/devices/pinephone/)
+13.  [Openmoko](https://www.openmoko.org/wiki/Main_Page)
+14.   [WiPhone](https://www.wiphone.io/)
+15.    [SIP Phone based on Olimex ESP32-ADF, MOD-LCD2.8RTP boards.](https://github.com/OLIMEX/sip_phone_example)
+16. [OSM‑Phone](https://github.com/DansDesigns/OSM-Phone)
+17.  [Spirit - Smartphone based on the Raspberry Pi CM 5.](https://github.com/V3lectronics/SPIRIT)
 
 * 今のところ詳細不明のため Brax Technologies Brax3 は除外しておきます。気になる方は Youtube の Rob Braxman Tech のチャンネルを視聴のこと。
 
