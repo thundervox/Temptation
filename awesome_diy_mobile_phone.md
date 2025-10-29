@@ -2,6 +2,8 @@
 
 仕様や比較表、諸元表など用意するのが手間なので解説は後回しです。それと制作しても日本国内では電波法の兼ね合いから使用できませんので参考資料です。今の段階でできることは、できるだけ多くのプロジェクトを発掘してソフトウェアや回路図などを参考にする程度です。あしからず。
 
+ある程度の規模になりましたら分割予定です。
+
 ## 携帯電話・スマートフォン(オープンソース製品)
 1. [evanman83/OURS-project: Step-by-step instructions to build a smartphone that is open-source, upgradeable, repairable, and Big Tech free.](https://github.com/evanman83/OURS-project)
 2.  [CircuitMess Ringo - an educational DIY mobile phone](https://github.com/CircuitMess/CircuitMess-Ringo)
@@ -23,6 +25,10 @@
 
 * 今のところ詳細不明のため Brax Technologies Brax3 は除外しておきます。気になる方は Youtube の Rob Braxman Tech のチャンネルを視聴のこと。
 
+## オペレーティングシステム
+* [XNU kernel](https://github.com/apple-oss-distributions/xnu)
+
+* [MuditaOS - Open Source E Ink mobile operating system | Mudita](https://mudita.com/products/phones/mudita-pure/muditaos/)
 
 ## 通信モジュール
 * [LTE通信モジュール　MM-M61D | セイコーソリューションズ](https://www.seiko-sol.co.jp/products/mm-m61d/)
