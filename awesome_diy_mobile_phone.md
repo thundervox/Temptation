@@ -1,4 +1,4 @@
-## ∀wesome DIY Cellar Phone
+## ∀wesome DIY/Homebrew Cellular Phone
 
 仕様や比較表、諸元表など用意するのが手間なので解説は後回しです。それと制作しても日本国内では電波法の兼ね合いから使用できませんので参考資料です。今の段階でできることは、できるだけ多くのプロジェクトを発掘してソフトウェアや回路図などを参考にする程度です。あしからず。
 
@@ -22,6 +22,7 @@
 15.    [SIP Phone based on Olimex ESP32-ADF, MOD-LCD2.8RTP boards.](https://github.com/OLIMEX/sip_phone_example)
 16. [OSM‑Phone](https://github.com/DansDesigns/OSM-Phone)
 17.  [Spirit - Smartphone based on the Raspberry Pi CM 5.](https://github.com/V3lectronics/SPIRIT)
+18.  [Project paxo](https://github.com/paxo-phone/)
 
 * 今のところ詳細不明のため Brax Technologies Brax3 は除外しておきます。気になる方は Youtube の Rob Braxman Tech のチャンネルを視聴のこと。
 
