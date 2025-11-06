@@ -38,7 +38,6 @@
 * [4GPi](https://github.com/mechatrax/4gpi)
 * [Pitalk 4G HAT](https://github.com/sbcshop/Pitalk_4G_HAT_Hardware) - オープンソースの Raspberry Pi 用の HAT モジュール (Quectel EG25-G 搭載) で音声通話対応。
 
-基本的に国内仕様のもので個人が手にいれられるものはデータ通信専用でほとんどが中国メーカー製です(しかも正規代理店経由以外で買うと技適認証まわりが偽造されているなど怪しいものがある恐れ)。試作用にSoftbank Simplyなど安価なガラホから剥がそうにしても通信モジュール単体ではなく恐らくSoCなので目的が違うでしょう。まあ、音声通話に関しては特許がらみなどで少し厄介なようです。Librem 5やOpenmokoの回路図を調べるとわかる通り音声通話に対応しているかどうかはチップの仕様(データ側が4Gでも音声側が3Gしか対応していないものは使えません)に加えてアナログ音声出入力用の端子があり音声回路(例えばアンプ回路、オーディオチップなどのDSP IC、スピーカーやマイク)とMPU(通信モジュールの制御用)に接続されているか否かですが。無ければクラウドPBXなど必要になるでしょう。
 
 ## 分解・修理
 * [Pure disassembly pictures - Other - Mudita Forum](https://forum.mudita.com/t/pure-disassembly-pictures/4814)
@@ -53,4 +52,3 @@
 * iClooly PhoneStand Plus
 
 一部を除き、あまり需要はないようですが、受話器型ハンドセットは受話器部分のものは手に入りますが、受話器台付きのものは中古でも入手困難です。もっとも、古すぎて今のスマートフォンでは動かすのは変換アダプタ(CTIA/OMTP→Bluetooth/USB)などを介するので少し手間ですが。
-
