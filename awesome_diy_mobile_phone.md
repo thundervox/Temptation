@@ -56,10 +56,14 @@
 Buletoothハンドセットの場合、機種や通話アプリ、あるいはスマートフォンの対応スタックによっては音声遅延が起こることがあります。気になさる場合は有線ハンドセットとUSB変換アダプタを選択するといいでしょう。
 
 ### 固定電話→Bluetooth変換アダプタ
+キーワード: Landline phone to Bluetooth
+
 * [浜谷製作所 携帯電話－固定電話アダプタ｜携帯電話回線を固定電話回線に変換 iTalkS](https://ttrmkr.sakura.ne.jp/KeitaiAdapter/keitaiADPT.htm)
 * [Cell2Jack](https://www.cell2jack.com/)
 * Xtreme Technologies XLink BT HD X-BT2
 * Sprint Phone Connect 3
+* [Blue POT](https://github.com/danjulio/blue_pot)
 
 日本国内で合法的に使えるのは iTalkS のみです。
+Blue POTはオープンソースハードウェアですので自作も可能ですが、使われているチップセット(Microchip BM64)の技適認証に関する情報がないため個人で制作して合法的に使えるかは不明です。
 
