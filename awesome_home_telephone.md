@@ -23,3 +23,7 @@
 
 ### PBX
 内線で使いたい場合に必要。
+
+## 変換器
+* [Analog Phone Dialer Firmware](https://github.com/theisolinearchip/analog_phone_dialer): パルスダイアル式電話機→トーンダイアル回線へ変換
+
