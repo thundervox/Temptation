@@ -64,13 +64,12 @@ Buletoothハンドセットの場合、機種や通話アプリ、あるいは�
 * Sprint Phone Connect 3
 * [Blue POT](https://github.com/danjulio/blue_pot)
 * [Using a Raspberry Pi, Asterisk and a Bluetooth dongle to route phone calls through a mobile phone · Random kit](https://jtanx.github.io/2016/02/24/using-asterisk-to-route-calls-through-mobile/)
-* weeBell: [Hardware](https://github.com/danjulio/weeBell_hardware) / [Bluetooth](https://github.com/danjulio/weeBell_bluetooth)
+* weeBell Pot: [Hardware](https://github.com/danjulio/weeBell_hardware) / [Bluetooth (Firmware)](https://github.com/danjulio/weeBell_bluetooth)
 
 日本国内で合法的に使えるのは iTalkS と ATA(Analog Telephony Adapter, IP電話アダプタ) + ルーターと PBX + Raspberry Piを使った方法のみです。
 
 Blue POTはオープンソースハードウェアですので自作も可能ですが、使われているBluetoothモジュール(Microchip BM64)の技適認証に関する情報がないため個人で制作して合法的に使えるかは不明です。BM64は評価ボートでしか個人で入手できませんが、低コスト版らしいBM83でしたら技適認証済みですし秋月電子ならモジュール単品で購入できるようです。→ [Bluetoothオーディオモジュール BM83: 通信・無線モジュール・アンテナ 秋月電子通商-電子部品・ネット通販](https://akizukidenshi.com/catalog/g/g130004/)
 
-weeBellもオープンソースハードウェアですがアーキテクチャが異なります。
-
+weeBell POT もオープンソースハードウェアですがアーキテクチャが異なります。
 
 Raspberry Pi (国内正規流通品のみ) を使う方法でしたら合法的に使えますが機材の調達や設定などに少し手間がかかります (そして持ち歩けない)。記事が公開されたのは2016年なのでかなり古いだけでなく、設定も煩雑であるためある程度PCに詳しいパワーユーザーならお勧めしますが、何でもかんでも人に聞かないとできないライトユーザーにはお勧めできません。
