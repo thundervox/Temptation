@@ -63,7 +63,11 @@ Buletoothハンドセットの場合、機種や通話アプリ、あるいは�
 * Xtreme Technologies XLink BT HD X-BT2
 * Sprint Phone Connect 3
 * [Blue POT](https://github.com/danjulio/blue_pot)
+* [Using a Raspberry Pi, Asterisk and a Bluetooth dongle to route phone calls through a mobile phone · Random kit](https://jtanx.github.io/2016/02/24/using-asterisk-to-route-calls-through-mobile/)
 
-日本国内で合法的に使えるのは iTalkS のみです。
+日本国内で合法的に使えるのは iTalkS と ATA + ルーターと PBX + Raspberry Piを使った方法のみです。
+
 Blue POTはオープンソースハードウェアですので自作も可能ですが、使われているチップセット(Microchip BM64)の技適認証に関する情報がないため個人で制作して合法的に使えるかは不明です。
+
+Raspberry Pi (国内正規流通品のみ) を使う方法でしたら合法的に使えますが機材の調達や設定などに少し手間がかかります (そして持ち歩けない)。ある程度PCに詳しいパワーユーザーならお勧めしますが、何でもかんでも人に聞かないとできないライトユーザーにはお勧めできません。
 
