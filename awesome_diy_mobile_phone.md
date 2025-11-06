@@ -51,4 +51,15 @@
 * [[News] スマートフォンが固定電話のように使える！通話しながら、Webの閲覧やアプリの操作ができる受話器付きスタンド 2製品を発売](https://www.elecom.co.jp/news/201107/mpa-ps001/index.html)
 * iClooly PhoneStand Plus
 
-一部を除き、あまり需要はないようですが、受話器型ハンドセットは受話器部分のものは手に入りますが、受話器台付きのものは中古でも入手困難です。もっとも、古すぎて今のスマートフォンでは動かすのは変換アダプタ(CTIA/OMTP→Bluetooth/USB)などを介するので少し手間ですが。
+一部を除き、あまり需要はないようですが。受話器型ハンドセットは受話器部分のものは手に入りますが、受話器台付きのものは中古でも入手困難です。もっとも、古すぎて今のスマートフォンでは動かすのは変換アダプタ(CTIA/OMTP→Bluetooth/USB)などを介するので少し手間ですが。
+
+Buletoothハンドセットの場合、機種や通話アプリ、あるいはスマートフォンの対応スタックによっては音声遅延が起こることがあります。気になさる場合は有線ハンドセットとUSB変換アダプタを選択するといいでしょう。
+
+### 固定電話→Bluetooth変換アダプタ
+* [浜谷製作所 携帯電話－固定電話アダプタ｜携帯電話回線を固定電話回線に変換 iTalkS](https://ttrmkr.sakura.ne.jp/KeitaiAdapter/keitaiADPT.htm)
+* [Cell2Jack](https://www.cell2jack.com/)
+* Xtreme Technologies XLink BT HD X-BT2
+* Sprint Phone Connect 3
+
+日本国内で合法的に使えるのは iTalkS のみです。
+
