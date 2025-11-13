@@ -6,11 +6,17 @@
 * キーボード: 汎用USB HIDキーボード (ロータリーダイアル、親指シフトキーボードからとにかく色々と繋ぎたいよね)
 * 液晶モジュール: タッチパネル搭載の汎用品(モジュール単体で使えるようにしたい)
 * メインボード: Raspberry Pi シリーズ (余裕を持たせておきたい)
+* ダイアルキー(タッチパネル版): 12キー、ロータリーダイアル
 * オペレーティングシステム: MuditaOS, postmarketOS など非Androidかな。
 
 無論、通信モジュールは後々差し替えできる構成にしておき通話はAndroid/iOS/Linux対応のSIP経由(Linphone, Jami)で。日本国内だとコレしか対策がないからね。だからできる範囲で作って完成させてから各所に打診するのがいい感じになりそう。
 
 この仕様だと SHARP Zaurus SLシリーズや初期のau IS01/IS02 に近いかな。自分が使うものに対して市場性なんて考えないほうがトガッていていいわけで。だいたい誰が使うのかをハッキリしないと平凡でつまらないものになるんだし。
+
+## ロータリーダイアル (色々)
+* [victorqribeiro/dial: A Rotary Dial menu for input numbers](https://github.com/victorqribeiro/dial)
+* [jp3141/rotary_dialer: Use old telephone rotary dial as a USB numeric keypad; includes 3-D printer files and Teensy Arduono code.](https://github.com/jp3141/rotary_dialer)
+* https://github.com/markfickett/Rotary-Dial
 
 ## いまできること
 かつてオープンソースソフトウェアの翻訳をしていたので、使いたいソフトウェアからローカライズなり構築していってVirtualBOXで動作する仮想マシンを作るところから始めるのも一考でしょう。次に試作用のハードウェアを最小構成で組み立てて開発を進めていく。これってある意味で [NumWorks](https://github.com/numworks) みたいなものですかね。 Rotary UnSmartPhoneにはオンラインシミュレータが無かったけど、シミュレータがあるなら実機が無くても改良できたとはいえ、それで失敗したのはMudita Pureですけどね。シミュレータのビルドすらしなかった人がほとんどでしょうし実機に書き込める段階まで整備した人も見かけません。やはり、ちゃんとしたエコシステムを作らないと誰も乗ってこないのかもしれませんね。
