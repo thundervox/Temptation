@@ -7,7 +7,7 @@
 ## 携帯電話・スマートフォン(オープンソース製品)
 1. [evanman83/OURS-project: Step-by-step instructions to build a smartphone that is open-source, upgradeable, repairable, and Big Tech free.](https://github.com/evanman83/OURS-project)
 2.  [CircuitMess Ringo - an educational DIY mobile phone](https://github.com/CircuitMess/CircuitMess-Ringo)
-3.   [libresmartphone/libresmartphone: This page contains the software used in the open hardware smartphone (libresmartphone)](https://github.com/libresmartphone/libresmartphone)
+3.   [libresmartphone/libresmartphone: This page contains the software used in the open hardware smartphone (libresmartphone)](https://github.com/libresmartphone/libresmartphone) †
 4.    [Raspberry Piで自作の携帯電話を作る - element14 presents](https://youtu.be/jjX7nS3kIao?si=ZytBZaNiKcO9VbMd)
 5. [mudita/MuditaOS: Mobile operating system based on FreeRTOS™ optimized for E Ink displays - developed for Mudita Pure minimalist phone](https://github.com/mudita/MuditaOS)
 6.  [Volla](https://github.com/hellovolla)
