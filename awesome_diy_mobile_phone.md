@@ -27,7 +27,7 @@
 
 
 ### Arduino ベースのシステム
-*[Seeed-Studio/ArduinoPhone: ArduinoPhone, a phone with Seeeduino, and GPRS Shield , and TFT Touch Shield!!!](https://github.com/Seeed-Studio/ArduinoPhone)
+* [Seeed-Studio/ArduinoPhone: ArduinoPhone, a phone with Seeeduino, and GPRS Shield , and TFT Touch Shield!!!](https://github.com/Seeed-Studio/ArduinoPhone)
 * [CircuitMess Ringo - an educational DIY mobile phone](https://github.com/CircuitMess/CircuitMess-Ringo)
 * [Rotary Un-Smartphone](https://skysedge.com/telecom/RUSP/index.html)
 
