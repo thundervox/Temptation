@@ -23,7 +23,7 @@
 16. [OSM‑Phone](https://github.com/DansDesigns/OSM-Phone)
 17.  [Spirit - Smartphone based on the Raspberry Pi CM 5.](https://github.com/V3lectronics/SPIRIT)
 18.  [Project paxo](https://github.com/paxo-phone/)
-19.  [Seeed-Studio/ArduinoPhone: ArduinoPhone, a phone with Seeeduino, and GPRS Shield , and TFT Touch Shield!!!](https://github.com/Seeed-Studio/ArduinoPhone)†
+19.  [Seeed-Studio/ArduinoPhone: ArduinoPhone, a phone with Seeeduino, and GPRS Shield , and TFT Touch Shield!!!](https://github.com/Seeed-Studio/ArduinoPhone)
 
 今のところ詳細不明のため Brax Technologies Brax3 は除外しておきます。気になる方は Youtube の Rob Braxman Tech のチャンネルを視聴のこと。
 
