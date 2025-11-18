@@ -6,12 +6,12 @@
 
 ## 携帯電話・スマートフォン(オープンソース製品)
 1. (準備中)
-2.  [CircuitMess Ringo - an educational DIY mobile phone](https://github.com/CircuitMess/CircuitMess-Ringo)
+2.  (準備中)
 3.   [Raspberry Piで自作の携帯電話を作る - element14 presents](https://youtu.be/jjX7nS3kIao?si=ZytBZaNiKcO9VbMd)
 4.   [mudita/MuditaOS: Mobile operating system based on FreeRTOS™ optimized for E Ink displays - developed for Mudita Pure minimalist phone](https://github.com/mudita/MuditaOS)
 5. [Volla](https://github.com/hellovolla)
 6.    [mikroPhone](https://mikrophone.net/)
-7.    [Rotary Un-Smartphone](https://skysedge.com/telecom/RUSP/index.html)
+7.    (準備中)
 8. [Librem5](https://puri.sm/products/librem-5/)
 9.    [Rephone](https://wiki.seeedstudio.com/ja/RePhone/)
 10. (準備中)
@@ -23,13 +23,17 @@
 16. [OSM‑Phone](https://github.com/DansDesigns/OSM-Phone)
 17.  [Spirit - Smartphone based on the Raspberry Pi CM 5.](https://github.com/V3lectronics/SPIRIT)
 18.  [Project paxo](https://github.com/paxo-phone/)
-19.  [Seeed-Studio/ArduinoPhone: ArduinoPhone, a phone with Seeeduino, and GPRS Shield , and TFT Touch Shield!!!](https://github.com/Seeed-Studio/ArduinoPhone)
-20.  [ZeroPhone](https://github.com/ZeroPhone)
+19.  [ZeroPhone](https://github.com/ZeroPhone)
 
-### Pythonベースのシステム
+
+### Arduino ベースのシステム
+*[Seeed-Studio/ArduinoPhone: ArduinoPhone, a phone with Seeeduino, and GPRS Shield , and TFT Touch Shield!!!](https://github.com/Seeed-Studio/ArduinoPhone)
+* [CircuitMess Ringo - an educational DIY mobile phone](https://github.com/CircuitMess/CircuitMess-Ringo)
+* [Rotary Un-Smartphone](https://skysedge.com/telecom/RUSP/index.html)
+
+### Python ベースのシステム
 * [evanman83/OURS-project: Step-by-step instructions to build a smartphone that is open-source, upgradeable, repairable, and Big Tech free.](https://github.com/evanman83/OURS-project)
 * [libresmartphone/libresmartphone: This page contains the software used in the open hardware smartphone (libresmartphone)](https://github.com/libresmartphone/libresmartphone) †
-
 
 ---
 今のところ詳細不明のため Brax Technologies Brax3 は除外しておきます。気になる方は Youtube の Rob Braxman Tech のチャンネルを視聴のこと。
