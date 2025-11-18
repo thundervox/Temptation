@@ -8,23 +8,25 @@
 1. (準備中)
 2.  (準備中)
 3.   [Raspberry Piで自作の携帯電話を作る - element14 presents](https://youtu.be/jjX7nS3kIao?si=ZytBZaNiKcO9VbMd)
-4.   [mudita/MuditaOS: Mobile operating system based on FreeRTOS™ optimized for E Ink displays - developed for Mudita Pure minimalist phone](https://github.com/mudita/MuditaOS)
-5. [Volla](https://github.com/hellovolla)
+4.   (準備中)
 6.    [mikroPhone](https://mikrophone.net/)
 7.    (準備中)
-8. [Librem5](https://puri.sm/products/librem-5/)
+8. (準備中)
 9.    [Rephone](https://wiki.seeedstudio.com/ja/RePhone/)
 10. (準備中)
 11.    [Precursor](https://www.crowdsupply.com/sutajio-kosagi/precursor)
-12. [PinePhone](https://pine64.org/devices/pinephone/)
+12. (準備中)
 13.  [Openmoko](https://www.openmoko.org/wiki/Main_Page)
 14.   [WiPhone](https://www.wiphone.io/)
 15.    [SIP Phone based on Olimex ESP32-ADF, MOD-LCD2.8RTP boards.](https://github.com/OLIMEX/sip_phone_example)
-16. [OSM‑Phone](https://github.com/DansDesigns/OSM-Phone)
-17.  [Spirit - Smartphone based on the Raspberry Pi CM 5.](https://github.com/V3lectronics/SPIRIT)
-18.  [Project paxo](https://github.com/paxo-phone/)
-19.  [ZeroPhone](https://github.com/ZeroPhone)
+16.[Project paxo](https://github.com/paxo-phone/)
+17.  [ZeroPhone](https://github.com/ZeroPhone)
 
+### Android/Linux ベースのシステム
+* FairPhone
+* [Librem5](https://puri.sm/products/librem-5/)
+* [PinePhone](https://pine64.org/devices/pinephone/)
+* [Volla](https://github.com/hellovolla)
 
 ### Arduino ベースのシステム
 * [Seeed-Studio/ArduinoPhone: ArduinoPhone, a phone with Seeeduino, and GPRS Shield , and TFT Touch Shield!!!](https://github.com/Seeed-Studio/ArduinoPhone)
@@ -35,10 +37,18 @@
 * [evanman83/OURS-project: Step-by-step instructions to build a smartphone that is open-source, upgradeable, repairable, and Big Tech free.](https://github.com/evanman83/OURS-project)
 * [libresmartphone/libresmartphone: This page contains the software used in the open hardware smartphone (libresmartphone)](https://github.com/libresmartphone/libresmartphone) †
 
----
-今のところ詳細不明のため Brax Technologies Brax3 は除外しておきます。気になる方は Youtube の Rob Braxman Tech のチャンネルを視聴のこと。
+### Raspberry Pi ベースのシステム
+* [OSM‑Phone](https://github.com/DansDesigns/OSM-Phone)
+* [Spirit - Smartphone based on the Raspberry Pi CM 5.](https://github.com/V3lectronics/SPIRIT)
 
-†がついているものは、このプロジェクトでリバースエンジニアリングやコードリーディング、またはハードウェアの試作など作業対象外です。ご了承ください。
+## 独自OS/ベアメタルのシステム
+* [mudita/MuditaOS: Mobile operating system based on FreeRTOS™ optimized for E Ink displays - developed for Mudita Pure minimalist phone](https://github.com/mudita/MuditaOS)
+
+
+---
+1. クローズドソースの商用ハードウェアであってもホームアプリなど一部独自の基本ソフトウェアがオープンソースの場合でもオープンソースとして扱います。
+2. 今のところ詳細不明のため Brax Technologies Brax3 は除外しておきます。気になる方は Youtube の Rob Braxman Tech のチャンネルを視聴のこと。
+3. †がついているものは、このプロジェクトでリバースエンジニアリングやコードリーディング、またはハードウェアの試作など作業対象外です。ご了承ください。
 
 ## オペレーティングシステム
 * [XNU kernel](https://github.com/apple-oss-distributions/xnu)
