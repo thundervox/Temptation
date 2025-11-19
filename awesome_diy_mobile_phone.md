@@ -61,7 +61,7 @@
 * [SIMCom Wireless Solutions - Wireless Modules and Solutions Supplier](https://www.simcom.com/)
 * [4GPi](https://github.com/mechatrax/4gpi)
 * [Pitalk 4G HAT](https://github.com/sbcshop/Pitalk_4G_HAT_Hardware) - オープンソースの Raspberry Pi 用の HAT モジュール (Quectel EG25-G 搭載) で音声通話対応。
-
+* [openCom LTE](https://git.liberatedsystems.co.uk/jacob.eva/opencom-lte)
 
 ## 分解・修理
 * [Pure disassembly pictures - Other - Mudita Forum](https://forum.mudita.com/t/pure-disassembly-pictures/4814)
